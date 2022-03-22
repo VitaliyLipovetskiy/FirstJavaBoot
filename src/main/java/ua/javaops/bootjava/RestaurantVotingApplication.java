@@ -1,4 +1,4 @@
-package ru.javaops.bootjava;
+package ua.javaops.bootjava;
 
 import lombok.AllArgsConstructor;
 import org.springframework.boot.SpringApplication;
